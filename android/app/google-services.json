@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089129534228",
+    "project_id": "hope-6427a",
+    "storage_bucket": "hope-6427a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089129534228:android:d150dbf3200f23fe5aa801",
+        "android_client_info": {
+          "package_name": "com.example.hopefully"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089129534228-0ktrrp298rii4r4slimkkcaibblj0prr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAKr9h1gmfcciqnF-Ga0TgPoI2C3-eoTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089129534228-0ktrrp298rii4r4slimkkcaibblj0prr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
